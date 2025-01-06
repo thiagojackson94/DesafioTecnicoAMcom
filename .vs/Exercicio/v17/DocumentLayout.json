@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\application\\handlers\\saldocontaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\saldocontaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\application\\handlers\\movimentarcontahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\movimentarcontahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\tests\\saldocontaqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\tests\\saldocontaqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\tests\\movimentarcontahandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\tests\\movimentarcontahandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\domain\\extensions\\tipomovimentoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\extensions\\tipomovimentoextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\infrastructure\\database\\repository\\idempotenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\repository\\idempotenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\infrastructure\\services\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\thiago\\source\\repos\\testeailos\\questao5\\application\\queries\\requests\\saldocontaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\requests\\saldocontaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimentarContaHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Tests\\MovimentarContaHandlerTests.cs",
+              "RelativeDocumentMoniker": "Questao5\\Tests\\MovimentarContaHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Tests\\MovimentarContaHandlerTests.cs",
+              "RelativeToolTip": "Questao5\\Tests\\MovimentarContaHandlerTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0QAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:05:49.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimentarContaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\MovimentarContaHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:17:29.331Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoContaQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Tests\\SaldoContaQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Questao5\\Tests\\SaldoContaQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Tests\\SaldoContaQueryHandlerTests.cs",
+              "RelativeToolTip": "Questao5\\Tests\\SaldoContaQueryHandlerTests.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:33:30.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2080901172:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoMovimentoExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Domain\\Extensions\\TipoMovimentoExtension.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Extensions\\TipoMovimentoExtension.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Domain\\Extensions\\TipoMovimentoExtension.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Extensions\\TipoMovimentoExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:25:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaldoContaQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Application\\Handlers\\SaldoContaQueryHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\SaldoContaQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Application\\Handlers\\SaldoContaQueryHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\SaldoContaQueryHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:09:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContaCorrenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:08:01.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaldoContaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Application\\Queries\\Requests\\SaldoContaQuery.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Requests\\SaldoContaQuery.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Application\\Queries\\Requests\\SaldoContaQuery.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Requests\\SaldoContaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:55:33.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdempotenciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Infrastructure\\Database\\Repository\\IdempotenciaRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\Repository\\IdempotenciaRepository.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\TesteAilos\\Questao5\\Infrastructure\\Database\\Repository\\IdempotenciaRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\Repository\\IdempotenciaRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:21:25.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

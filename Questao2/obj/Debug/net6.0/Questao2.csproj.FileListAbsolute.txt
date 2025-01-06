@@ -1,0 +1,50 @@
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.csproj.Up2Date
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\Teste de C# da Ailos\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.csproj.Up2Date
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\TesteAilos\Questao2\obj\Debug\net6.0\ref\Questao2.dll
